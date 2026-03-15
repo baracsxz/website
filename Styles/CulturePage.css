@@ -1,0 +1,76 @@
+h1{
+	background-color: #0038B8;
+	color: white;
+	padding: 20px;
+}
+
+h2{
+	color: #0038B8;
+	border: 10px dashed royalblue;
+	padding: 10px;
+	width: 130px;
+	background-color: lightblue;
+	text-align: center;
+}
+
+body{
+	background-color: whitesmoke;
+}
+
+p{
+	letter-spacing: 1px;
+}
+
+.culture{
+	background-image: url("../image/IsraelCulture.webp");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: rgba(100, 100, 100, 0.5);
+	padding: 10px;
+	color: white;
+	text-align: justify;
+}
+
+.border-image{
+	color: #0038B8;
+	background-color: lightblue;
+	border: 5px solid blue;
+	width: 400px;
+	padding: 5px;
+}
+
+.table-paragraph{
+	padding: 15px;
+}
+
+.religion{
+	background-image: url("../image/IsraelReligion.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: rgba(10, 100, 100, 0.5);
+	padding: 30px;
+	color: white;
+	text-align: justify;
+}
+
+.border-image2{
+	color: #0038B8;
+	background-color: lightblue;
+	border: 5px solid blue;
+	width: 400px;
+	padding: 10px;
+}
+
+footer{
+	background-color: #0038B8;
+	color: white;
+	padding: 10px;
+}
+
+hr{
+	border: 10px solid #0038B8;
+}

@@ -1,0 +1,138 @@
+h1{
+	background-color: #0038B8;
+	padding: 20px;
+	color: white;
+	font-size: 20px;
+}
+
+#line{
+	background-color: #0038B8;
+	padding: 20px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+nav{
+	padding: 20px;
+	background-color: #0038B8;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	gap: 5px;
+}
+
+#slogan{
+ 	display: block;
+ 	margin-left: auto;
+}
+
+#picture{
+	background-color: lightblue;
+	padding: 20px;
+	border: 5px solid royalblue;
+	margin: 35px 0px;
+}
+
+.video-design{
+	background-color: lightblue;
+	align-content: center;
+	padding: 20px;
+	border: 5px solid royalblue;
+	margin: 35px 0px;
+}
+
+hr{
+	border: 30px solid #0038B8;
+}
+
+li{
+	font-size: 40px;
+	padding: 10px;
+	margin: 19px;
+}
+
+.map-design{
+	background-color: lightblue;
+	align-content: center;
+	padding: 20px;
+	border: 5px solid royalblue;
+	margin: 30px 0px;
+}
+
+h2{
+	color: #0038B8;
+	padding: 10px;
+	font-size: 60px;
+}
+
+#about{
+	text-indent: 50px;
+	font-size: 20px;
+	text-align: justify;
+	padding: 40px;
+}
+
+#sabout{
+	text-indent: 50px;
+	font-size: 20px;
+	text-align: justify;
+	padding: 30px;
+}
+
+.image-row{
+	display: inline-block;
+	border: 5px solid royalblue;
+	background-color: lightblue;
+	padding: 20px;
+	margin: 0px;
+}
+
+.description p{
+	padding: 30px;
+	font-size: 20px;
+	margin: 5px 80px;
+	text-align: center;
+}
+
+.simage-row{
+	padding: 15px;
+	background-color: lightblue;
+	border: 5px solid royalblue;
+	}
+
+.sdescription p{	
+	padding: 20px;
+	margin: 20px;
+	font-size: 25px;
+	text-align: center;
+}
+
+footer{
+	background-color: #0038B8;
+	color: white;
+	padding: 20px;
+	font-size: 15px;
+}
+
+a{
+	color:  white;
+}
+
+a:hover{
+	color: lightblue;
+}
+
+#pindot{
+	color: white;
+	background-color: #0038B8;
+	border: 5px solid royalblue;
+	padding: 20px;	
+}
+
+button{
+	font-size: 10px;
+	padding: 15px;
+	max-width: 20%;
+	height: auto;
+}
