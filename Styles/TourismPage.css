@@ -20,9 +20,6 @@ nav{
 	display: flex;
 	align-items: center;
 	gap: 5px;
-}
-
-.navheader{
 	position: sticky;
 }
 
