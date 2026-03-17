@@ -22,6 +22,10 @@ nav{
 	gap: 5px;
 }
 
+.navheader{
+	position: sticky;
+}
+
 #slogan{
  	display: block;
  	margin-left: auto;
